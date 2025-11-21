@@ -1,0 +1,15 @@
+4
+1
+4
+Musculacao
+0.2
+2
+Esteira_1
+0.25
+2
+Esteira_2
+0.25
+2
+Bicicleta
+0.25
+2
