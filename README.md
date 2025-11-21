@@ -58,8 +58,8 @@ Resultados globais do sistema:
 
 - Para cada Recurso, é retornado:
 
-    | Recurso   | R | W | U | L                            |
-    | :---------- | :--------- | :---------  :--------- | :---------------------------------- |
+    | Recurso   | R | W | U | L |
+    | :---------- | :--------- | :--------- | :--------- | :--------- |
     | `Nome do recurso` | `Tempo de resposta do recurso` | `Tempo de espera do recurso` | `Porcentagem de utilização do recurso` | `Número de clientes no recurso`
 
 
